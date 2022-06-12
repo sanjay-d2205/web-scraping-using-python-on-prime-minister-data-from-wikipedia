@@ -5,10 +5,10 @@ method and load the data into MySQL table (Indianprimeministers)
 https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India
 1. Indian prime ministers table structure
 
-Name
-Party
-Took Office
-Left Office
+*Name
+*Party
+*Took Office
+*Left Office
 
 1. Write a query to sum the total time in office of each of the prime minister
 2. Number of tenures each one resided in office.
